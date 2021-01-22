@@ -1,0 +1,12 @@
+.myLi i {
+  display: none;
+}
+/* 
+.hide {
+  display: none;
+} */
+
+.myLi:hover i{
+  display: inline;
+  color:red;
+}
